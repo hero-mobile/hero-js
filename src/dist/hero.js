@@ -2739,6 +2739,8 @@
                 width: 100%;
                 position: absolute;
                 height: 100%;
+                padding-left: 15px;
+                outline:none;
                 border:none;
                 background-color:transparent;
             }
